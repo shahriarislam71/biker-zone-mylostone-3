@@ -1,0 +1,32 @@
+.orange-primary {
+    border-radius: 5px;
+    background: #E76F51;
+    border-style: none;
+    color: white;
+    padding: 10px 30px;
+}
+
+/* ride-on sections background  */
+.background {
+    border-radius: 5px;
+    background: rgba(231, 111, 81, 0.10);
+}
+
+/* carosel icons color  */
+.previous {
+    background-color: black;
+}
+
+.next {
+    background-color: #E76F51;
+}
+
+.cards {
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.15);
+    border-style: none;
+}
+.client-color{
+    color: #E76F51;
+}
